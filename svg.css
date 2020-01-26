@@ -1,0 +1,38 @@
+.blackstroke{
+    stroke: black;
+    stroke-width: 2
+}
+.whitestroke{
+    stroke: white;
+    stroke-width: 1;
+}
+.brownstroke{
+    stroke: brown;
+    stroke-width: 1;
+}
+.housecolor{
+    fill:beige;
+    stroke:#000000;
+    stroke-width:3
+}
+.window{
+    fill:white;
+    stroke:brown;
+    stroke-width:5;
+    fill:url(#Gradient3)
+}
+.tire{
+    fill: black;
+    stroke: white;
+    stroke-width:2
+}
+.carbody{
+    fill:url(#Gradient2);
+    stroke:black;
+    stroke-width:4
+}
+.doorhandle{
+    fill: brown;
+    stroke: brown;
+    stroke-width:3
+}
